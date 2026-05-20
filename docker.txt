@@ -1,4 +1,4 @@
 Docker is powerful 
-this file is changed in main branch 
+changed in conflict branch  
 Docker is container 
 
